@@ -7,15 +7,7 @@
       "descuento": 5,
       "fecha": "2020-01-10",
       "cedulaVendedor": "70065478",
-      "nombreVendedor": "Miguel Mendoza Sotelo",
-      "compra": {
-        "idCompra": 24,
-        "cedulaComprador": "50549708",
-        "nombreComprador": "Carla Baltazar Ortiz",
-        "fechaCompra": "2020-01-11",
-        "valorPagado": 1235999,
-        "comandoProducto": null
-      }
+      "nombreVendedor": "Riquelme Santos Sotelo"
     },
     {
       "codigo": "56457898",
@@ -23,145 +15,8 @@
       "valor": 1235999,
       "descuento": 3,
       "fecha": "2020-01-14",
-      "cedulaVendedor": "70065478",
-      "nombreVendedor": "Miguel Mendoza Sotelo",
-      "compra": {
-        "idCompra": 25,
-        "cedulaComprador": "50549708",
-        "nombreComprador": "Carla Baltazar Ortiz",
-        "fechaCompra": "2020-01-11",
-        "valorPagado": 1235999,
-        "comandoProducto": null
-      }
-    },
-    {
-      "codigo": "56457890",
-      "nombre": "Televisor LG 42 pulgadas",
-      "valor": 1235999,
-      "descuento": 3,
-      "fecha": "2020-01-14",
-      "cedulaVendedor": "70065478",
-      "nombreVendedor": "Miguel Mendoza Sotelo",
-      "compra": {
-        "idCompra": 26,
-        "cedulaComprador": "50549708",
-        "nombreComprador": "Carla Baltazar Ortiz",
-        "fechaCompra": "2020-01-12",
-        "valorPagado": 1235999,
-        "comandoProducto": null
-      }
-    },
-    {
-      "codigo": "133456789",
-      "nombre": "Televisor LG 42 pulgadas",
-      "valor": 1235999,
-      "descuento": 3,
-      "fecha": "2020-01-14",
-      "cedulaVendedor": "123456789",
-      "nombreVendedor": "Miguel Mendoza Sotelo",
-      "compra": {
-        "idCompra": 38,
-        "cedulaComprador": "50549708",
-        "nombreComprador": "Carla Baltazar Ortiz",
-        "fechaCompra": "2020-01-12",
-        "valorPagado": 1235999,
-        "comandoProducto": null
-      }
-    },
-    {
-      "codigo": "1234",
-      "nombre": "Lavadora LG",
-      "valor": 1235999,
-      "descuento": 5,
-      "fecha": "2019-12-31",
-      "cedulaVendedor": "70065478",
-      "nombreVendedor": "Miguel Mendoza Sotelo",
-      "compra": {
-        "idCompra": 223,
-        "cedulaComprador": "12345",
-        "nombreComprador": "Pepito",
-        "fechaCompra": "2020-01-20",
-        "valorPagado": 1235999,
-        "comandoProducto": null
-      }
-    },
-    {
-      "codigo": "123456",
-      "nombre": "Lavadora LG",
-      "valor": 1235999,
-      "descuento": 5,
-      "fecha": "2020-01-01",
-      "cedulaVendedor": "70065478",
-      "nombreVendedor": "Miguel Mendoza Sotelo",
-      "compra": {
-        "idCompra": 119,
-        "cedulaComprador": "50549708",
-        "nombreComprador": "Carla Baltazar Ortiz",
-        "fechaCompra": "2020-01-17",
-        "valorPagado": 1174200,
-        "comandoProducto": null
-      }
-    },
-    {
-      "codigo": "770",
-      "nombre": "Tostadora",
-      "valor": 100000,
-      "descuento": 3,
-      "fecha": "2020-01-20",
-      "cedulaVendedor": "1010063",
-      "nombreVendedor": "Pepito Pérez",
-      "compra": null
-    },
-    {
-      "codigo": "1010",
-      "nombre": "Plancha",
-      "valor": 45000,
-      "descuento": 2,
-      "fecha": "2020-01-20",
-      "cedulaVendedor": "1063281",
-      "nombreVendedor": "Tania Suárez",
-      "compra": {
-        "idCompra": 257,
-        "cedulaComprador": "1063",
-        "nombreComprador": "Pepito Pérez",
-        "fechaCompra": "2020-01-21",
-        "valorPagado": 45000,
-        "comandoProducto": null
-      }
-    },
-    {
-      "codigo": "99879",
-      "nombre": "Lavadora LG",
-      "valor": 12359995,
-      "descuento": 5,
-      "fecha": "2020-01-17",
-      "cedulaVendedor": "70065478",
-      "nombreVendedor": "Miguel Mendoza Sotelo",
-      "compra": {
-        "idCompra": 274,
-        "cedulaComprador": "13345",
-        "nombreComprador": "Pepito Pérez",
-        "fechaCompra": "2020-01-22",
-        "valorPagado": 12359995,
-        "comandoProducto": null
-      }
-    },
-    {
-      "codigo": "123789",
-      "nombre": "Nevera",
-      "valor": 1300789,
-      "descuento": 3,
-      "fecha": "2020-01-22",
-      "cedulaVendedor": "13345",
-      "nombreVendedor": "Pepito Pérez",
-      "compra": {
-        "idCompra": 275,
-        "cedulaComprador": "1063281",
-        "nombreComprador": "Alejandra Morales",
-        "fechaCompra": "2020-01-22",
-        "valorPagado": 1300789,
-        "comandoProducto": null
-      }
+      "cedulaVendedor": "50944665",
+      "nombreVendedor": "Miguel Mendoza Sotelo"
     }
   ]
 }
