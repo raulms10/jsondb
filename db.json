@@ -18,5 +18,15 @@
       "cedulaVendedor": "50944665",
       "nombreVendedor": "Miguel Mendoza Sotelo"
     }
+  ],
+  "vendedores": [ 
+    {
+    "cedula": "70065478",
+    "nombre": "Riquelme Santos Sotelo"
+    }, 
+    {
+    "cedula": "50944665",
+    "nombre": "Miguel Mendoza Sotelo"
+    }
   ]
 }
